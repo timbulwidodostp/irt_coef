@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'irt_coef': y* standardized coefficients (discrimination parameters) for binary and ordinal IRT models Use irt_coef With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f irt_coef.ado
+f irt_coef.sthlp

@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p irt_coef y* standardized coefficients (discrimination parameters) for binary and ordinal IRT models Use irt_coef With STATA 18

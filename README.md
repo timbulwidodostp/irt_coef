@@ -3,6 +3,8 @@ y* standardized coefficients (discrimination parameters) for binary and ordinal 
 
 y*-standardized coefficients in item response theory models Use irt_coef With STATA 18
 
+https://www.youtube.com/watch?v=reBGcrZVbBg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
